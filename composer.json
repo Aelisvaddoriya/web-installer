@@ -11,7 +11,7 @@
     ],
     "autoload": {
             "psr-4": {
-                "aelisvaddoriya\\WebInstaller\\": "src/"
+                "Shipu\\WebInstaller\\": "src/"
             }
         },
     "require": {
@@ -26,7 +26,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "aelisvaddoriya\\WebInstaller\\WebInstallerServiceProvider"
+                "Shipu\\WebInstaller\\WebInstallerServiceProvider"
             ],
             "aliases": {
 
