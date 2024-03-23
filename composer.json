@@ -1,5 +1,5 @@
 {
-    "name": "shipu/web-installer",
+    "name": "aelisvaddoriya/web-installer",
     "description": "Laravel Web Installer",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
             "psr-4": {
-                "Shipu\\WebInstaller\\": "src/"
+                "aelisvaddoriya\\WebInstaller\\": "src/"
             }
         },
     "require": {
@@ -26,7 +26,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Shipu\\WebInstaller\\WebInstallerServiceProvider"
+                "aelisvaddoriya\\WebInstaller\\WebInstallerServiceProvider"
             ],
             "aliases": {
 
